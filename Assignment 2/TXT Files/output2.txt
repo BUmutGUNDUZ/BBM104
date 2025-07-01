@@ -1,0 +1,92 @@
+***********************************
+***Initializing Animal information***
+Added new Lion with name ShereKhan aged 7.
+Added new Elephant with name Tantor aged 35.
+Added new Penguin with name Rico aged 4.
+Added new Chimpanzee with name Caesar aged 14.
+Added new Lion with name Nala aged 5.
+Added new Elephant with name Horton aged 25.
+Added new Penguin with name Skipper aged 6.
+Added new Chimpanzee with name Bubbles aged 9.
+***********************************
+***Initializing Visitor and Personnel information***
+Added new Visitor with id 231045 and name Elif.
+Added new Visitor with id 412567 and name Aaron.
+Added new Personnel with id 684321 and name Maria.
+Added new Personnel with id 993214 and name Isaac.
+Added new Visitor with id 511236 and name Mehmet.
+***********************************
+***Initializing Food Stock***
+There are 60.000 kg of Meat in stock
+There are 90.000 kg of Fish in stock
+There are 70.000 kg of Plant in stock
+***********************************
+***Processing new Command***
+Listing available Food Stock:
+Plant: 70.000 kgs
+Fish: 90.000 kgs
+Meat: 60.000 kgs
+***********************************
+***Processing new Command***
+Isaac attempts to clean ShereKhan's habitat.
+Isaac started cleaning ShereKhan's habitat.
+Cleaning ShereKhan's habitat: Removing bones and refreshing sand.
+***********************************
+***Processing new Command***
+Elif tried  to register for a visit to Tantor.
+Elif successfully visited Tantor.
+***********************************
+***Processing new Command***
+Elif tried to feed Tantor
+Error: Visitors do not have the authority to feed animals.
+***********************************
+***Processing new Command***
+Maria attempts to feed ShereKhan.
+ShereKhan has been given 20.400 kgs of meat
+***********************************
+***Processing new Command***
+Maria attempts to feed Caesar.
+Caesar has been given 18.300 kgs of meat and 18.300 kgs of leaves
+***********************************
+***Processing new Command***
+Isaac attempts to clean Rico's habitat.
+Isaac started cleaning Rico's habitat.
+Cleaning Rico's habitat: Replenishing ice and scrubbing walls.
+***********************************
+***Processing new Command***
+Mehmet tried  to register for a visit to Skipper.
+Mehmet successfully visited Skipper.
+***********************************
+***Processing new Command***
+Listing available Food Stock:
+Plant: 51.700 kgs
+Fish: 90.000 kgs
+Meat: 21.300 kgs
+***********************************
+***Processing new Command***
+Isaac attempts to feed Bubbles.
+Bubbles has been given 14.938 kgs of meat and 14.938 kgs of leaves
+***********************************
+***Processing new Command***
+Isaac attempts to feed Nala.
+Error: Not enough Meat
+***********************************
+***Processing new Command***
+Maria attempts to clean Bubbles's habitat.
+Maria started cleaning Bubbles's habitat.
+Cleaning Bubbles's habitat: Sweeping the enclosure and replacing branches.
+***********************************
+***Processing new Command***
+Maria attempts to feed Caesar.
+Caesar has been given 6.100 kgs of meat and 6.100 kgs of leaves
+***********************************
+***Processing new Command***
+Maria attempts to clean Horton's habitat.
+Maria started cleaning Horton's habitat.
+Cleaning Horton's habitat: Washing the water area.
+***********************************
+***Processing new Command***
+Listing available Food Stock:
+Plant: 30.662 kgs
+Fish: 90.000 kgs
+Meat: 0.262 kgs

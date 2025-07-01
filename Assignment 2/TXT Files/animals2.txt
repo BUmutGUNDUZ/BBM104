@@ -1,0 +1,8 @@
+Lion,ShereKhan,7
+Elephant,Tantor,35
+Penguin,Rico,4
+Chimpanzee,Caesar,14
+Lion,Nala,5
+Elephant,Horton,25
+Penguin,Skipper,6
+Chimpanzee,Bubbles,9

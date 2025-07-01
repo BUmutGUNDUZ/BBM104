@@ -1,0 +1,15 @@
+List Food Stock
+Animal Visitation,993214,ShereKhan
+Animal Visitation,231045,Tantor
+Feed Animal,231045,Tantor,3
+Feed Animal,684321,ShereKhan,4
+Feed Animal,684321,Caesar,6
+Animal Visitation,993214,Rico
+Animal Visitation,511236,Skipper
+List Food Stock
+Feed Animal,993214,Bubbles,5
+Feed Animal,993214,Nala,3
+Animal Visitation,684321,Bubbles
+Feed Animal,684321,Caesar,2
+Animal Visitation,684321,Horton
+List Food Stock

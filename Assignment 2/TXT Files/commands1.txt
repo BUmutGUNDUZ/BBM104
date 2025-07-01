@@ -1,0 +1,15 @@
+List Food Stock
+Animal Visitation,532146,Aslan
+Animal Visitation,755332,Aslan
+Feed Animal,755332,Aslan,2
+Feed Animal,532146,Aslan,2
+Feed Animal,532146,George,5
+Animal Visitation,186534,Kowalski
+Animal Visitation,124031,Leo
+List Food Stock
+Feed Animal,186534,Kowalski,7
+Feed Animal,186534,Mojo,5
+Feed Animal,532146,George,5
+Animal Visitation,532146,George
+Animal Visitation,532146,Boncuk
+List Food Stock

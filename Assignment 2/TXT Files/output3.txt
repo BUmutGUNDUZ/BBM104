@@ -1,0 +1,69 @@
+***********************************
+***Initializing Animal information***
+Added new Lion with name Leo aged 6.
+Added new Elephant with name Bozo aged 45.
+Added new Penguin with name Tux aged 10.
+Added new Chimpanzee with name Spike aged 20.
+Added new Elephant with name Ellie aged 50.
+***********************************
+***Initializing Visitor and Personnel information***
+Added new Visitor with id 192384 and name Selin.
+Added new Personnel with id 842157 and name Victor.
+Added new Personnel with id 731246 and name Eleanor.
+Added new Visitor with id 664923 and name Tom.
+***********************************
+***Initializing Food Stock***
+There are 40.000 kg of Meat in stock
+There are 100.000 kg of Fish in stock
+There are 60.000 kg of Plant in stock
+***********************************
+***Processing new Command***
+Listing available Food Stock:
+Plant: 60.000 kgs
+Fish: 100.000 kgs
+Meat: 40.000 kgs
+***********************************
+***Processing new Command***
+Selin tried  to register for a visit to Tux.
+Selin successfully visited Tux.
+***********************************
+***Processing new Command***
+Victor attempts to feed Leo.
+Leo has been given 10.100 kgs of meat
+***********************************
+***Processing new Command***
+Tom tried  to register for a visit to Ellie.
+Tom successfully visited Ellie.
+***********************************
+***Processing new Command***
+Eleanor attempts to feed Bozo.
+Bozo has been given 41.500 kgs assorted fruits and hay
+***********************************
+***Processing new Command***
+Victor attempts to feed Spike.
+Spike has been given 15.625 kgs of meat and 15.625 kgs of leaves
+***********************************
+***Processing new Command***
+Listing available Food Stock:
+Plant: 2.875 kgs
+Fish: 100.000 kgs
+Meat: 14.275 kgs
+***********************************
+***Processing new Command***
+Victor attempts to clean UnknownAnimal's habitat.
+Error: There are no animals with the name UnknownAnimal.
+***********************************
+***Processing new Command***
+Selin tried to feed Leo
+Error: Visitors do not have the authority to feed animals.
+***********************************
+***Processing new Command***
+Error processing command: Feed Animal,842157,Leo,notanumber
+Error:For input string: "notanumber"
+***********************************
+***Processing new Command***
+Error: There are no visitors or personnel with the id 731223
+***********************************
+***Processing new Command***
+Eleanor attempts to feed Spike.
+Error: Not enough Plant

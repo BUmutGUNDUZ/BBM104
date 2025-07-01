@@ -1,0 +1,12 @@
+List Food Stock
+Animal Visitation,192384,Tux
+Feed Animal,842157,Leo,2
+Animal Visitation,664923,Ellie
+Feed Animal,731246,Bozo,4
+Feed Animal,842157,Spike,5
+List Food Stock
+Animal Visitation,842157,UnknownAnimal
+Feed Animal,192384,Leo,2
+Feed Animal,842157,Leo,notanumber
+Feed Animal,731223,Bozo,4
+Feed Animal,731246,Spike,3

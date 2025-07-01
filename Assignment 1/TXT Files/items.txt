@@ -1,0 +1,18 @@
+B,1001,The Great Gatsby,F. Scott Fitzgerald,Classic Fiction,normal
+B,1002,Dune,Frank Herbert,Science Fiction,normal
+B,1003,Pride and Prejudice,Jane Austen,Romance,normal
+B,1004,The Silent Patient,Alex Michaelides,Thriller,normal
+B,1005,Sapiens: A Brief History of Humankind,Yuval Noah Harari,Non-Fiction,reference
+B,1006,The Hobbit,J.R.R. Tolkien,Fantasy,rare
+B,1007,Gone Girl,Gillian Flynn,Mystery,limited
+B,1008,The Alchemist,Paulo Coelho,Philosophical Fiction,reference
+M,2001,National Geographic,National Geographic Society,Science,normal
+M,2002,Time,Time USA,News,normal
+M,2003,Scientific American,Springer Nature,Science,reference
+M,2004,Vogue,Condé Nast,Fashion,normal
+M,2005,The Economist,The Economist Group,Economics,limited
+D,3001,The Shawshank Redemption,Frank Darabont,Drama,142 min,normal
+D,3002,The Godfather,Francis Ford Coppola,Crime,175 min,normal
+D,3003,Inception,Christopher Nolan,Sci-Fi,148 min,limited
+D,3004,Pulp Fiction,Quentin Tarantino,Crime,154 min,normal
+D,3005,The Matrix,Wachowski Sisters,Sci-Fi,136 min,rare

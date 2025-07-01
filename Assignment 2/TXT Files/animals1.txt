@@ -1,0 +1,8 @@
+Lion,Aslan,10
+Elephant,Boncuk,6
+Penguin,Leo,8
+Chimpanzee,George,4
+Lion,Simba,3
+Elephant,Dumbo,27
+Penguin,Kowalski,2
+Chimpanzee,Mojo,16

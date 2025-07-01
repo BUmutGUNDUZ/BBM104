@@ -1,0 +1,623 @@
+Reading Person Information 
+Reading Departments 
+Reading Programs 
+Reading Courses 
+Reading Course Assignments 
+Reading Grades 
+----------------------------------------
+            Academic Members
+----------------------------------------
+Faculty ID: 101
+Name: Prof.Dr.İlyas Çiçekli
+Email: cicekli@uni.edu.tr
+Department: AI
+
+Faculty ID: 102
+Name: Prof.Dr.Pınar Şahin
+Email: sahin@uni.edu
+Department: AI
+
+Faculty ID: 103
+Name: Prof.Dr.Erkut Erdem
+Email: erkut@uni.edu
+Department: AI
+
+Faculty ID: 104
+Name: Prof.Dr.Nazlı İkizler
+Email: ikizler@uni.edu
+Department: AI
+
+Faculty ID: 201
+Name: Prof.Dr.Ahmet Burak Can
+Email: burakcan@uni.edu.tr
+Department: CS
+
+Faculty ID: 202
+Name: Prof.Dr.Lale Özkahya
+Email: ozkahya@uni.edu
+Department: CS
+
+Faculty ID: 203
+Name: Prof.Dr.Suat Özdemir
+Email: ozdemir@uni.edu
+Department: CS
+
+----------------------------------------
+
+----------------------------------------
+                STUDENTS
+----------------------------------------
+Student ID: 101
+Name: Benno Marco
+Email: marco@uni.edu
+Major: CS
+Status: Active
+
+Student ID: 102
+Name: Hiroko Reiko
+Email: reiko@uni.edu
+Major: CS
+Status: Active
+
+Student ID: 103
+Name: Dimitriy Kazimir
+Email: kazimir@uni.edu
+Major: CS
+Status: Active
+
+Student ID: 104
+Name: Apollon Charis
+Email: charis@uni.edu
+Major: CS
+Status: Active
+
+Student ID: 105
+Name: Mehmet Ozan
+Email: ozan@uni.edu
+Major: CS
+Status: Active
+
+Student ID: 201
+Name: Nuno Isaias
+Email: isaias@uni.edu
+Major: AI
+Status: Active
+
+Student ID: 202
+Name: Hildegard Stellan
+Email: stellan@uni.edu
+Major: AI
+Status: Active
+
+Student ID: 203
+Name: Roksolana Klavdiya
+Email: klavdiya@uni.edu
+Major: AI
+Status: Active
+
+Student ID: 204
+Name: Filimon Pompiliu
+Email: pompiliu@uni.edu
+Major: AI
+Status: Active
+
+Student ID: 205
+Name: Malkhazi Pridoni
+Email: pridoni@uni.edu
+Major: AI
+Status: Active
+
+----------------------------------------
+
+---------------------------------------
+              DEPARTMENTS
+---------------------------------------
+Department Code: CENG
+Name: Computer Engineering
+Head: Prof.Dr.İlyas Çiçekli
+
+----------------------------------------
+
+--------------------------------------
+                PROGRAMS
+---------------------------------------
+Program Code: AIN
+Name: Artificial Intelligence Engineering
+Department: Computer Engineering
+Degree Level: Bachelor
+Required Credits: 40
+Courses: {AIN440,AIN312,AIN434,AIN211,AIN431,BBM402}
+
+Program Code: BBM
+Name: Computer Engineering
+Department: Computer Engineering
+Degree Level: Bachelor
+Required Credits: 50
+Courses: {BBM405,BBM458,BBM444,BBM406,BBM495}
+
+----------------------------------------
+
+---------------------------------------
+                COURSES
+---------------------------------------
+Course Code: AIN211
+Name: Principles of Artificial Intelligence
+Department: Computer Engineering
+Credits: 18
+Semester: 2024/Spring
+
+Course Code: AIN312
+Name: Formal Languages and Automata Theory
+Department: Computer Engineering
+Credits: 12
+Semester: 2024/Spring
+
+Course Code: AIN431
+Name: Introduction to Computer Vision
+Department: Computer Engineering
+Credits: 12
+Semester: 2024/Spring
+
+Course Code: AIN434
+Name: Fundamentals of Computational Photography
+Department: Computer Engineering
+Credits: 15
+Semester: 2024/Spring
+
+Course Code: AIN440
+Name: Introduction to Natural Language Processing
+Department: Computer Engineering
+Credits: 15
+Semester: 2024/Spring
+
+Course Code: BBM402
+Name: Theory of Computation
+Department: Computer Engineering
+Credits: 12
+Semester: 2024/Spring
+
+Course Code: BBM405
+Name: Fundamentals of Artificial Intelligence
+Department: Computer Engineering
+Credits: 15
+Semester: 2024/Spring
+
+Course Code: BBM406
+Name: Fundamentals of Machine Learning
+Department: Computer Engineering
+Credits: 12
+Semester: 2024/Spring
+
+Course Code: BBM444
+Name: Fundamentals of Computational Photography
+Department: Computer Engineering
+Credits: 15
+Semester: 2024/Spring
+
+Course Code: BBM458
+Name: Wireless and Mobil Networks
+Department: Computer Engineering
+Credits: 12
+Semester: 2024/Spring
+
+Course Code: BBM495
+Name: Introduction to Natural Language Processing
+Department: Computer Engineering
+Credits: 18
+Semester: 2024/Spring
+
+----------------------------------------
+
+----------------------------------------
+             COURSE REPORTS
+----------------------------------------
+Course Code: AIN211
+Name: Principles of Artificial Intelligence
+Department: Computer Engineering
+Credits: 18
+Semester: 2024/Spring
+
+Instructor: Prof.Dr.Pınar Şahin
+
+Enrolled Students:
+- Nuno Isaias (ID: 201)
+- Hildegard Stellan (ID: 202)
+- Roksolana Klavdiya (ID: 203)
+- Filimon Pompiliu (ID: 204)
+- Malkhazi Pridoni (ID: 205)
+
+Grade Distribution:
+
+Average Grade: 0.00
+
+----------------------------------------
+
+Course Code: AIN312
+Name: Formal Languages and Automata Theory
+Department: Computer Engineering
+Credits: 12
+Semester: 2024/Spring
+
+Instructor: Prof.Dr.İlyas Çiçekli
+
+Enrolled Students:
+- Nuno Isaias (ID: 201)
+- Hildegard Stellan (ID: 202)
+- Roksolana Klavdiya (ID: 203)
+- Filimon Pompiliu (ID: 204)
+- Malkhazi Pridoni (ID: 205)
+
+Grade Distribution:
+
+Average Grade: 0.00
+
+----------------------------------------
+
+Course Code: AIN431
+Name: Introduction to Computer Vision
+Department: Computer Engineering
+Credits: 12
+Semester: 2024/Spring
+
+Instructor: Prof.Dr.Nazlı İkizler
+
+Enrolled Students:
+- Nuno Isaias (ID: 201)
+- Hildegard Stellan (ID: 202)
+- Roksolana Klavdiya (ID: 203)
+- Filimon Pompiliu (ID: 204)
+- Malkhazi Pridoni (ID: 205)
+
+Grade Distribution:
+A1: 2
+B1: 2
+B2: 1
+
+Average Grade: 3.30
+
+----------------------------------------
+
+Course Code: AIN434
+Name: Fundamentals of Computational Photography
+Department: Computer Engineering
+Credits: 15
+Semester: 2024/Spring
+
+Instructor: Prof.Dr.Erkut Erdem
+
+Enrolled Students:
+
+Grade Distribution:
+
+Average Grade: 0.00
+
+----------------------------------------
+
+Course Code: AIN440
+Name: Introduction to Natural Language Processing
+Department: Computer Engineering
+Credits: 15
+Semester: 2024/Spring
+
+Instructor: Prof.Dr.İlyas Çiçekli
+
+Enrolled Students:
+- Benno Marco (ID: 101)
+- Hiroko Reiko (ID: 102)
+- Dimitriy Kazimir (ID: 103)
+- Apollon Charis (ID: 104)
+- Mehmet Ozan (ID: 105)
+- Nuno Isaias (ID: 201)
+- Hildegard Stellan (ID: 202)
+- Roksolana Klavdiya (ID: 203)
+- Filimon Pompiliu (ID: 204)
+- Malkhazi Pridoni (ID: 205)
+
+Grade Distribution:
+A1: 2
+A2: 4
+B1: 2
+B2: 2
+
+Average Grade: 3.30
+
+----------------------------------------
+
+Course Code: BBM402
+Name: Theory of Computation
+Department: Computer Engineering
+Credits: 12
+Semester: 2024/Spring
+
+Instructor: Prof.Dr.Lale Özkahya
+
+Enrolled Students:
+- Benno Marco (ID: 101)
+- Hiroko Reiko (ID: 102)
+- Dimitriy Kazimir (ID: 103)
+- Apollon Charis (ID: 104)
+- Mehmet Ozan (ID: 105)
+
+Grade Distribution:
+A1: 1
+A2: 1
+C1: 3
+
+Average Grade: 2.70
+
+----------------------------------------
+
+Course Code: BBM405
+Name: Fundamentals of Artificial Intelligence
+Department: Computer Engineering
+Credits: 15
+Semester: 2024/Spring
+
+Instructor: Prof.Dr.Pınar Şahin
+
+Enrolled Students:
+
+Grade Distribution:
+
+Average Grade: 0.00
+
+----------------------------------------
+
+Course Code: BBM406
+Name: Fundamentals of Machine Learning
+Department: Computer Engineering
+Credits: 12
+Semester: 2024/Spring
+
+Instructor: Prof.Dr.Ahmet Burak Can
+
+Enrolled Students:
+- Benno Marco (ID: 101)
+- Hiroko Reiko (ID: 102)
+- Dimitriy Kazimir (ID: 103)
+- Apollon Charis (ID: 104)
+- Mehmet Ozan (ID: 105)
+
+Grade Distribution:
+
+Average Grade: 0.00
+
+----------------------------------------
+
+Course Code: BBM444
+Name: Fundamentals of Computational Photography
+Department: Computer Engineering
+Credits: 15
+Semester: 2024/Spring
+
+Instructor: Prof.Dr.Erkut Erdem
+
+Enrolled Students:
+
+Grade Distribution:
+
+Average Grade: 0.00
+
+----------------------------------------
+
+Course Code: BBM458
+Name: Wireless and Mobil Networks
+Department: Computer Engineering
+Credits: 12
+Semester: 2024/Spring
+
+Instructor: Prof.Dr.Suat Özdemir
+
+Enrolled Students:
+
+Grade Distribution:
+
+Average Grade: 0.00
+
+----------------------------------------
+
+Course Code: BBM495
+Name: Introduction to Natural Language Processing
+Department: Computer Engineering
+Credits: 18
+Semester: 2024/Spring
+
+Instructor: Not assigned
+
+Enrolled Students:
+- Benno Marco (ID: 101)
+- Hiroko Reiko (ID: 102)
+- Dimitriy Kazimir (ID: 103)
+- Apollon Charis (ID: 104)
+- Mehmet Ozan (ID: 105)
+
+Grade Distribution:
+
+Average Grade: 0.00
+
+
+----------------------------------------
+
+----------------------------------------
+            STUDENT REPORTS
+----------------------------------------
+Student ID: 101
+Name: Benno Marco
+Email: marco@uni.edu
+Major: CS
+Status: Active
+
+
+Enrolled Courses:
+- Fundamentals of Machine Learning (BBM406)
+- Introduction to Natural Language Processing (BBM495)
+
+Completed Courses:
+- Introduction to Natural Language Processing (AIN440): A2
+- Theory of Computation (BBM402): A2
+
+GPA: 3.50
+----------------------------------------
+
+Student ID: 102
+Name: Hiroko Reiko
+Email: reiko@uni.edu
+Major: CS
+Status: Active
+
+
+Enrolled Courses:
+- Fundamentals of Machine Learning (BBM406)
+- Introduction to Natural Language Processing (BBM495)
+
+Completed Courses:
+- Introduction to Natural Language Processing (AIN440): B1
+- Theory of Computation (BBM402): A1
+
+GPA: 3.44
+----------------------------------------
+
+Student ID: 103
+Name: Dimitriy Kazimir
+Email: kazimir@uni.edu
+Major: CS
+Status: Active
+
+
+Enrolled Courses:
+- Fundamentals of Machine Learning (BBM406)
+- Introduction to Natural Language Processing (BBM495)
+
+Completed Courses:
+- Introduction to Natural Language Processing (AIN440): B1
+- Theory of Computation (BBM402): C1
+
+GPA: 2.56
+----------------------------------------
+
+Student ID: 104
+Name: Apollon Charis
+Email: charis@uni.edu
+Major: CS
+Status: Active
+
+
+Enrolled Courses:
+- Fundamentals of Machine Learning (BBM406)
+- Introduction to Natural Language Processing (BBM495)
+
+Completed Courses:
+- Introduction to Natural Language Processing (AIN440): B2
+- Theory of Computation (BBM402): C1
+
+GPA: 2.28
+----------------------------------------
+
+Student ID: 105
+Name: Mehmet Ozan
+Email: ozan@uni.edu
+Major: CS
+Status: Active
+
+
+Enrolled Courses:
+- Fundamentals of Machine Learning (BBM406)
+- Introduction to Natural Language Processing (BBM495)
+
+Completed Courses:
+- Introduction to Natural Language Processing (AIN440): B2
+- Theory of Computation (BBM402): C1
+
+GPA: 2.28
+----------------------------------------
+
+Student ID: 201
+Name: Nuno Isaias
+Email: isaias@uni.edu
+Major: AI
+Status: Active
+
+
+Enrolled Courses:
+- Principles of Artificial Intelligence (AIN211)
+- Formal Languages and Automata Theory (AIN312)
+
+Completed Courses:
+- Introduction to Natural Language Processing (AIN440): A1
+- Introduction to Computer Vision (AIN431): A1
+
+GPA: 4.00
+----------------------------------------
+
+Student ID: 202
+Name: Hildegard Stellan
+Email: stellan@uni.edu
+Major: AI
+Status: Active
+
+
+Enrolled Courses:
+- Principles of Artificial Intelligence (AIN211)
+- Formal Languages and Automata Theory (AIN312)
+
+Completed Courses:
+- Introduction to Natural Language Processing (AIN440): A1
+- Introduction to Computer Vision (AIN431): A1
+
+GPA: 4.00
+----------------------------------------
+
+Student ID: 203
+Name: Roksolana Klavdiya
+Email: klavdiya@uni.edu
+Major: AI
+Status: Active
+
+
+Enrolled Courses:
+- Principles of Artificial Intelligence (AIN211)
+- Formal Languages and Automata Theory (AIN312)
+
+Completed Courses:
+- Introduction to Natural Language Processing (AIN440): A2
+- Introduction to Computer Vision (AIN431): B1
+
+GPA: 3.28
+----------------------------------------
+
+Student ID: 204
+Name: Filimon Pompiliu
+Email: pompiliu@uni.edu
+Major: AI
+Status: Active
+
+
+Enrolled Courses:
+- Principles of Artificial Intelligence (AIN211)
+- Formal Languages and Automata Theory (AIN312)
+
+Completed Courses:
+- Introduction to Natural Language Processing (AIN440): A2
+- Introduction to Computer Vision (AIN431): B1
+
+GPA: 3.28
+----------------------------------------
+
+Student ID: 205
+Name: Malkhazi Pridoni
+Email: pridoni@uni.edu
+Major: AI
+Status: Active
+
+
+Enrolled Courses:
+- Principles of Artificial Intelligence (AIN211)
+- Formal Languages and Automata Theory (AIN312)
+
+Completed Courses:
+- Introduction to Natural Language Processing (AIN440): A2
+- Introduction to Computer Vision (AIN431): B2
+
+GPA: 3.06
+
+----------------------------------------

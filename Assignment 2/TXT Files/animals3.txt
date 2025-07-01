@@ -1,0 +1,5 @@
+Lion,Leo,6
+Elephant,Bozo,45
+Penguin,Tux,10
+Chimpanzee,Spike,20
+Elephant,Ellie,50

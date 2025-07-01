@@ -1,0 +1,120 @@
+David Lee successfully borrowed! The Great Gatsby
+David Lee successfully borrowed! Dune
+David Lee successfully borrowed! Pride and Prejudice
+Jennifer Parker successfully borrowed! Pride and Prejudice
+David Lee cannot borrow Time, you must first pay the penalty amount! 6$
+David Lee has paid penalty
+David Lee successfully borrowed! The Great Gatsby
+David Lee successfully returned The Great Gatsby
+David Lee cannot borrow Pride and Prejudice, it is not available!
+David Lee successfully borrowed! The Shawshank Redemption
+David Lee cannot borrow The Godfather, since the borrow limit has been reached!
+David Lee successfully returned The Shawshank Redemption
+David Lee cannot borrow limited item!
+David Lee cannot borrow rare item!
+
+
+------ User Information for 1001 ------
+Name: John Smith Phone: 555-1234
+Faculty: Engineering Department: Computer Science Grade: 1th
+
+------ User Information for 1002 ------
+Name: Emily Johnson Phone: 555-2345
+Faculty: Engineering Department: Electrical Engineering Grade: 3th
+
+------ User Information for 1003 ------
+Name: Michael Brown Phone: 555-3456
+Faculty: Science Department: Biology Grade: 2th
+
+------ User Information for 2001 ------
+Name: Professor Dr. Sarah Wilson Phone: 555-4567
+Faculty: Science Department: Physics
+
+------ User Information for 2002 ------
+Name: Associate Professor Dr. Robert Thompson Phone: 555-5678
+Faculty: Arts Department: Literature
+
+------ User Information for 2003 ------
+Name: Assistant Professor Dr. Laura Martinez Phone: 555-6789
+Faculty: Science Department: Mathematics
+
+------ User Information for 3001 ------
+Name: David Lee Phone: 555-7890
+Occupation: Writer
+
+------ User Information for 3002 ------
+Name: Jennifer Parker Phone: 555-8901
+Occupation: Researcher
+
+
+------ Item Information for 1001 ------
+ID: 1001 Name: The Great Gatsby Status: Available
+Author: F. Scott Fitzgerald Genre: Classic Fiction
+
+------ Item Information for 1002 ------
+ID: 1002 Name: Dune Status: Available
+Author: Frank Herbert Genre: Science Fiction
+
+------ Item Information for 1003 ------
+ID: 1003 Name: Pride and Prejudice Status: Borrowed Borrowed Date: 26/03/2025 Borrowed by: Jennifer Parker
+Author: Jane Austen Genre: Romance
+
+------ Item Information for 1004 ------
+ID: 1004 Name: The Silent Patient Status: Available
+Author: Alex Michaelides Genre: Thriller
+
+------ Item Information for 1005 ------
+ID: 1005 Name: Sapiens: A Brief History of Humankind Status: Available
+Author: Yuval Noah Harari Genre: Non-Fiction
+
+------ Item Information for 1006 ------
+ID: 1006 Name: The Hobbit Status: Available
+Author: J.R.R. Tolkien Genre: Fantasy
+
+------ Item Information for 1007 ------
+ID: 1007 Name: Gone Girl Status: Available
+Author: Gillian Flynn Genre: Mystery
+
+------ Item Information for 1008 ------
+ID: 1008 Name: The Alchemist Status: Available
+Author: Paulo Coelho Genre: Philosophical Fiction
+
+------ Item Information for 2001 ------
+ID: 2001 Name: National Geographic Status: Available
+Publisher: National Geographic Society Category: Science
+
+------ Item Information for 2002 ------
+ID: 2002 Name: Time Status: Available
+Publisher: Time USA Category: News
+
+------ Item Information for 2003 ------
+ID: 2003 Name: Scientific American Status: Available
+Publisher: Springer Nature Category: Science
+
+------ Item Information for 2004 ------
+ID: 2004 Name: Vogue Status: Available
+Publisher: Condé Nast Category: Fashion
+
+------ Item Information for 2005 ------
+ID: 2005 Name: The Economist Status: Available
+Publisher: The Economist Group Category: Economics
+
+------ Item Information for 3001 ------
+ID: 3001 Name: The Shawshank Redemption Status: Available
+Director: Frank Darabont Category: Drama Runtime: 142 min
+
+------ Item Information for 3002 ------
+ID: 3002 Name: The Godfather Status: Available
+Director: Francis Ford Coppola Category: Crime Runtime: 175 min
+
+------ Item Information for 3003 ------
+ID: 3003 Name: Inception Status: Available
+Director: Christopher Nolan Category: Sci-Fi Runtime: 148 min
+
+------ Item Information for 3004 ------
+ID: 3004 Name: Pulp Fiction Status: Available
+Director: Quentin Tarantino Category: Crime Runtime: 154 min
+
+------ Item Information for 3005 ------
+ID: 3005 Name: The Matrix Status: Available
+Director: Wachowski Sisters Category: Sci-Fi Runtime: 136 min

@@ -1,0 +1,92 @@
+***********************************
+***Initializing Animal information***
+Added new Lion with name Aslan aged 10.
+Added new Elephant with name Boncuk aged 6.
+Added new Penguin with name Leo aged 8.
+Added new Chimpanzee with name George aged 4.
+Added new Lion with name Simba aged 3.
+Added new Elephant with name Dumbo aged 27.
+Added new Penguin with name Kowalski aged 2.
+Added new Chimpanzee with name Mojo aged 16.
+***********************************
+***Initializing Visitor and Personnel information***
+Added new Visitor with id 124031 and name Ahmet.
+Added new Visitor with id 357023 and name John.
+Added new Personnel with id 532146 and name Jack.
+Added new Personnel with id 186534 and name Abigail.
+Added new Visitor with id 755332 and name Ayşe.
+***********************************
+***Initializing Food Stock***
+There are 50.000 kg of Meat in stock
+There are 80.000 kg of Fish in stock
+There are 50.000 kg of Plant in stock
+***********************************
+***Processing new Command***
+Listing available Food Stock:
+Plant: 50.000 kgs
+Fish: 80.000 kgs
+Meat: 50.000 kgs
+***********************************
+***Processing new Command***
+Jack attempts to clean Aslan's habitat.
+Jack started cleaning Aslan's habitat.
+Cleaning Aslan's habitat: Removing bones and refreshing sand.
+***********************************
+***Processing new Command***
+Ayşe tried  to register for a visit to Aslan.
+Ayşe successfully visited Aslan.
+***********************************
+***Processing new Command***
+Ayşe tried to feed Aslan
+Error: Visitors do not have the authority to feed animals.
+***********************************
+***Processing new Command***
+Jack attempts to feed Aslan.
+Aslan has been given 10.500 kgs of meat
+***********************************
+***Processing new Command***
+Jack attempts to feed George.
+George has been given 14.625 kgs of meat and 14.625 kgs of leaves
+***********************************
+***Processing new Command***
+Abigail attempts to clean Kowalski's habitat.
+Abigail started cleaning Kowalski's habitat.
+Cleaning Kowalski's habitat: Replenishing ice and scrubbing walls.
+***********************************
+***Processing new Command***
+Ahmet tried  to register for a visit to Leo.
+Ahmet successfully visited Leo.
+***********************************
+***Processing new Command***
+Listing available Food Stock:
+Plant: 35.375 kgs
+Fish: 80.000 kgs
+Meat: 24.875 kgs
+***********************************
+***Processing new Command***
+Abigail attempts to feed Kowalski.
+Kowalski has been given 20.440 kgs of various kinds of fish
+***********************************
+***Processing new Command***
+Abigail attempts to feed Mojo.
+Mojo has been given 15.375 kgs of meat and 15.375 kgs of leaves
+***********************************
+***Processing new Command***
+Jack attempts to feed George.
+Error: Not enough Meat
+***********************************
+***Processing new Command***
+Jack attempts to clean George's habitat.
+Jack started cleaning George's habitat.
+Cleaning George's habitat: Sweeping the enclosure and replacing branches.
+***********************************
+***Processing new Command***
+Jack attempts to clean Boncuk's habitat.
+Jack started cleaning Boncuk's habitat.
+Cleaning Boncuk's habitat: Washing the water area.
+***********************************
+***Processing new Command***
+Listing available Food Stock:
+Plant: 20.000 kgs
+Fish: 59.560 kgs
+Meat: 9.500 kgs

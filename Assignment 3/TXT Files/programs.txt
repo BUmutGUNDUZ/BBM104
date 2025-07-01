@@ -1,0 +1,2 @@
+BBM,Computer Engineering,The Computer Engineering (BBM) program,Computer Engineering,Bachelor,50
+AIN,Artificial Intelligence Engineering,The Artificial Intelligence Engineering (AIN) program,Computer Engineering,Bachelor,40

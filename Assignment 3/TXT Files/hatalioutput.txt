@@ -1,0 +1,155 @@
+Reading Person Information 
+Invalid Person Type
+Reading Departments 
+Academic Member Not Found with ID 101
+Reading Programs 
+Reading Courses 
+Program BM Not Found
+Reading Course Assignments 
+Academic Member Not Found with ID 101
+Academic Member Not Found with ID 103
+Course BBM495 Not Found
+Student Not Found with ID 105
+Student Not Found with ID 201
+Reading Grades 
+Course BBM495 Not Found
+Student Not Found with ID 106
+The grade A3 is not valid
+----------------------------------------
+            Academic Members
+----------------------------------------
+Faculty ID: 202
+Name: Prof.Dr.Lale Özkahya
+Email: ozkahya@uni.edu
+Department: CS
+
+Faculty ID: 203
+Name: Prof.Dr.Suat Özdemir
+Email: ozdemir@uni.edu
+Department: CS
+
+----------------------------------------
+
+----------------------------------------
+                STUDENTS
+----------------------------------------
+Student ID: 101
+Name: Benno Marco
+Email: marco@uni.edu
+Major: CS
+
+Student ID: 102
+Name: Hiroko Reiko
+Email: reiko@uni.edu
+Major: CS
+
+----------------------------------------
+
+---------------------------------------
+              DEPARTMENTS
+---------------------------------------
+Department Code: CENG
+Name: Computer Engineering
+Head: Not assigned
+
+----------------------------------------
+
+--------------------------------------
+                PROGRAMS
+---------------------------------------
+Program Code: AIN
+Name: Artificial Intelligence Engineering
+Department: Computer Engineering
+Degree Level: Bachelor
+Required Credits: 40
+Courses: {AIN440}
+
+Program Code: BBM
+Name: Computer Engineering
+Department: Computer Engineering
+Degree Level: Bachelor
+Required Credits: 50
+Courses: - 
+----------------------------------------
+
+---------------------------------------
+                COURSES
+---------------------------------------
+Course Code: AIN312
+Name: Formal Languages and Automata Theory
+Department: Computer Engineering
+Credits: 12
+Semester: 2024/Spring
+
+Course Code: AIN440
+Name: Introduction to Natural Language Processing
+Department: Computer Engineering
+Credits: 15
+Semester: 2024/Spring
+
+----------------------------------------
+
+----------------------------------------
+             COURSE REPORTS
+----------------------------------------
+Course Code: AIN312
+Name: Formal Languages and Automata Theory
+Department: Computer Engineering
+Credits: 12
+Semester: 2024/Spring
+
+Instructor: Not assigned
+
+Enrolled Students:
+
+Grade Distribution:
+
+Average Grade: 0.00
+
+----------------------------------------
+
+Course Code: AIN440
+Name: Introduction to Natural Language Processing
+Department: Computer Engineering
+Credits: 15
+Semester: 2024/Spring
+
+Instructor: Not assigned
+
+Enrolled Students:
+
+Grade Distribution:
+
+Average Grade: 0.00
+
+
+----------------------------------------
+
+----------------------------------------
+            STUDENT REPORTS
+----------------------------------------
+Student ID: 101
+Name: Benno Marco
+Email: marco@uni.edu
+Major: CS
+
+Enrolled Courses:
+
+Completed Courses:
+
+GPA: 0.00
+----------------------------------------
+
+Student ID: 102
+Name: Hiroko Reiko
+Email: reiko@uni.edu
+Major: CS
+
+
+Enrolled Courses:
+
+Completed Courses:
+
+GPA: 0.00
+
+----------------------------------------

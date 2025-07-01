@@ -1,0 +1,2 @@
+AIN440,Introduction to Natural Language Processing,Computer Engineering,15,2024/Spring,AIN
+AIN312,Formal Languages and Automata Theory,Computer Engineering,12,2024/Spring,BM

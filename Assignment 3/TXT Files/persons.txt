@@ -1,0 +1,17 @@
+S,101,Benno Marco,marco@uni.edu,CS
+S,102,Hiroko Reiko,reiko@uni.edu,CS
+S,103,Dimitriy Kazimir,kazimir@uni.edu,CS
+S,104,Apollon Charis,charis@uni.edu,CS
+S,105,Mehmet Ozan,ozan@uni.edu,CS
+S,201,Nuno Isaias,isaias@uni.edu,AI
+S,202,Hildegard Stellan,stellan@uni.edu,AI
+S,203,Roksolana Klavdiya,klavdiya@uni.edu,AI
+S,204,Filimon Pompiliu,pompiliu@uni.edu,AI
+S,205,Malkhazi Pridoni,pridoni@uni.edu,AI
+F,101,Prof.Dr.İlyas Çiçekli,cicekli@uni.edu.tr,AI
+F,102,Prof.Dr.Pınar Şahin,sahin@uni.edu,AI
+F,103,Prof.Dr.Erkut Erdem,erkut@uni.edu,AI
+F,104,Prof.Dr.Nazlı İkizler,ikizler@uni.edu,AI
+F,201,Prof.Dr.Ahmet Burak Can,burakcan@uni.edu.tr,CS
+F,202,Prof.Dr.Lale Özkahya,ozkahya@uni.edu,CS
+F,203,Prof.Dr.Suat Özdemir,ozdemir@uni.edu,CS

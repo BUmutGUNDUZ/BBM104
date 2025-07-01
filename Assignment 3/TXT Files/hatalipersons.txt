@@ -1,0 +1,5 @@
+S,101,Benno Marco,marco@uni.edu,CS
+S,102,Hiroko Reiko,reiko@uni.edu,CS
+M,201,Prof.Dr.Ahmet Burak Can,burakcan@uni.edu.tr,CS
+F,202,Prof.Dr.Lale Özkahya,ozkahya@uni.edu,CS
+F,203,Prof.Dr.Suat Özdemir,ozdemir@uni.edu,CS

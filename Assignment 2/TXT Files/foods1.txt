@@ -1,0 +1,3 @@
+Meat,50
+Fish,80
+Plant,50

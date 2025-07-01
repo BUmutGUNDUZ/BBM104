@@ -1,0 +1,11 @@
+AIN440,Introduction to Natural Language Processing,Computer Engineering,15,2024/Spring,AIN
+AIN312,Formal Languages and Automata Theory,Computer Engineering,12,2024/Spring,AIN
+AIN434,Fundamentals of Computational Photography,Computer Engineering,15,2024/Spring,AIN
+AIN211,Principles of Artificial Intelligence,Computer Engineering,18,2024/Spring,AIN
+AIN431,Introduction to Computer Vision,Computer Engineering,12,2024/Spring,AIN
+BBM402,Theory of Computation,Computer Engineering,12,2024/Spring,AIN
+BBM405,Fundamentals of Artificial Intelligence,Computer Engineering,15,2024/Spring,BBM
+BBM458,Wireless and Mobil Networks,Computer Engineering,12,2024/Spring,BBM
+BBM444,Fundamentals of Computational Photography,Computer Engineering,15,2024/Spring,BBM
+BBM406,Fundamentals of Machine Learning,Computer Engineering,12,2024/Spring,BBM
+BBM495,Introduction to Natural Language Processing,Computer Engineering,18,2024/Spring,BBM
